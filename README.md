@@ -10,7 +10,9 @@ Create your app
 
 ```bash
 mkdir exampleapp
-cd exampleapp && cordova create MultiPhotos com.<yourname>.multiphotos MultiPhotos
+cd exampleapp
+cordova create MultiPhotos com.<yourname>.multiphotos MultiPhotos
+cd ..
 ```
 
 Copy my example use code to your app
